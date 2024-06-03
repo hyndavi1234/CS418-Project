@@ -1,5 +1,5 @@
 # Electricity Usage Forecasting & Price Prediction
-_Tech Stack: (Python, Statsmodel, Sklearn)_
+_Tech Stack: Python, Statsmodel, Sklearn_
 <br/><br/>
 Developed a machine learning model to accurately forecast energy consumption and predict its price that helps energy companies, policymakers, and consumers to make informed decisions about energy usage, pricing, and resource planning. 
 
